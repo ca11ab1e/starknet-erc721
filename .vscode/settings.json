@@ -1,0 +1,5 @@
+{
+    "cairols.venvCommand": ". ./venv/bin/activate",
+    "editor.formatOnSave": true,
+    "python.formatting.blackPath": "./venv/bin/black"
+}
